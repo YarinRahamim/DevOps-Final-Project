@@ -3,7 +3,7 @@
  
  
  
-       <a> Finalproject: Yovel Hadad | Nissim Cohen | Yarin Rahamim </a>
+       <a> Final project: Yovel Hadad | Nissim Cohen | Yarin Rahamim </a>
 	   <br>
 	   <a> Please enter your name and telephone: </a>
 	   <br>
